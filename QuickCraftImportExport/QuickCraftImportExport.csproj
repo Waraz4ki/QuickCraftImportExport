@@ -7,7 +7,7 @@
     <KsaDir Condition="'$(KsaDir)' == ''">$(MSBuildProjectDirectory)\..\..\..\refs\game</KsaDir>
 
 
-    <OutputPath>/home/zaziki/Documents/My Games/Kitten Space Agency/mods/QuickCraftImportExport/</OutputPath>
+    <OutputPath>/home/username/Documents/My Games/Kitten Space Agency/mods/QuickCraftImportExport/</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
